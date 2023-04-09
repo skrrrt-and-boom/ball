@@ -41,5 +41,7 @@ function fun() {
 }
 
 div.addEventListener('click', fun);
-
-audio.play();
+function tery() {
+  audio.play();
+}
+tery();
